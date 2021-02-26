@@ -1,7 +1,6 @@
-<img src="Image/cover.jpg" style="width:100.0%" alt="" />
-
 # Teachers Credit Union Daily Cash Forecast
 
+<img src="Image/cover.jpg" style="width:100.0%" alt="" />
 
 ### Introduction
 
@@ -11,7 +10,7 @@ Teachers Credit Union (TCU) is committed to being the best in-store member exper
 
 We used daily cash use data of 49 branches at TCU from Jan 1, 2010 to July 31, 2020. It is a time series data of daily cash use with 171230 observations. Aside from daily cash use, it also includes variables such as holidays, cash order received per week, cash balance start of the day, etc.
 
-<img src="Image/data_table.JPG" style="width:100.0%" alt="" />
+<img src="Image/data_table.JPG" style="width:90.0%" alt="" />
 
 
 
@@ -19,21 +18,21 @@ We used daily cash use data of 49 branches at TCU from Jan 1, 2010 to July 31, 2
 
 #### Daily cash use by branches
  
-<img src="Image/boxplot_by_branch.png" style="width:100.0%" alt="" />
+<img src="Image/boxplot_by_branch.png" style="width:90.0%" alt="" />
 
 #### Average daily cash use by branches
 
-<img src="Image/mean_diff_by_branch.png" style="width:100.0%" alt="" />
+<img src="Image/mean_diff_by_branch.png" style="width:90.0%" alt="" />
 
 #### Compare two branches
 
 ##### Branch 270
 
-<img src="Image/branch270_plot.png" style="width:100.0%" alt="" />
+<img src="Image/branch270_plot.png" style="width:90.0%" alt="" />
 
 ##### Branch 398
 
-<img src="Image/branch398_plot.png" style="width:100.0%" alt="" />
+<img src="Image/branch398_plot.png" style="width:90.0%" alt="" />
 
 **Initial EDA confirms on two main points:**
 1. Big differences by branch
@@ -43,11 +42,11 @@ We used daily cash use data of 49 branches at TCU from Jan 1, 2010 to July 31, 2
 
 ##### Closing days of week
 
-<img src="Image/closing_weekdays.png" style="width:100.0%" alt="" />
+<img src="Image/closing_weekdays.png" style="width:90.0%" alt="" />
 
 ##### Closing holidays
 
-<img src="Image/closing_holidays.png" style="width:100.0%" alt="" />
+<img src="Image/closing_holidays.png" style="width:90.0%" alt="" />
 
 
 ### Modeling
@@ -58,11 +57,11 @@ We used daily cash use data of 49 branches at TCU from Jan 1, 2010 to July 31, 2
 
 ##### Prophet forecast
 
-<img src="Image/branch270_prophet.png" style="width:100.0%" alt="" />
+<img src="Image/branch270_prophet.png" style="width:90.0%" alt="" />
 
 ##### Prophet component
 
-<img src="Image/branch270_prophet_component.png" style="width:100.0%" alt="" />
+<img src="Image/branch270_prophet_component.png" style="width:90.0%" alt="" />
 
 ##### Prediction comparison
 
