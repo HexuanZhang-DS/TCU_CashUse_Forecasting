@@ -1,6 +1,3 @@
-
-# Teachers Credit Union Daily Cash Forecast
-
 <img src="Image/cover.jpg" style="width:100.0%" alt="" />
 
 ### Introduction
