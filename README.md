@@ -1,8 +1,5 @@
 <img src="Image/cover.jpg" style="width:100.0%" alt="" />
 
-# Teachers Credit Union Daily Cash Forecast
-
-
 ### Introduction
 
 Teachers Credit Union (TCU) is committed to being the best in-store member experience it can be, and it starts with the logistics of providing enough cash. Too much cash for a branch will exceed the cash limit, but too little cash will incur additonal cost for TCU to make emergency orders. The old method of handling this is by team members viewing how much cash is on hand, comparing that to last year's usage in the current time frame, and estimating the need for the next week. However this naive seasonal estimation based on past year cannot take into consideration the yearly changes and has been made even harder due to covid situation. It is time now to build a better time series model to forecast the daily cash use by branches.
